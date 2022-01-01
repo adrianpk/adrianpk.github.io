@@ -1,32 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adrian PK • IT Consulting</title>
+    <title>Adrian PK • SW Development</title>
     <link>/</link>
-    <description>Recent content on Adrian PK • IT Consulting</description>
+    <description>Recent content on Adrian PK • SW Development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
+      <title>Adrian PK</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>I build highly scalable, fast and efficient services for startups and organizations supported by architectures capable of handling the most demanding availability requirements of modern web applications.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>/contact/</link>
-      <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>It all begins with an idea. Maybe you want to launch a business, maybe you want to turn a hobby into something more or pehaps you have a creative project to share with the world. Whatever it is, the way you tell your story online can make all the difference.    JotForm.newDefaultTheme = true; JotForm.extendsNewTheme = false; JotForm.newPaymentUIForNewCreatedForms = false; JotForm.newPaymentUI = true; JotForm.highlightInputs = false; JotForm.</description>
+      <guid>/home/</guid>
+      <description>Software Development </description>
     </item>
     
   </channel>
